@@ -1,0 +1,30 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.me{
+	padding: 4em;
+}
+h1{
+	font-size: 60px;
+	line-height: 100px;
+}
+.h2{
+	padding: 4em;
+}
+
+h1 p{
+	line-height: 20px;
+}
+.bottn{
+	display: flex;
+	color:#ffffff;
+	background: green;
+	padding: 20px;
+	width: 180px;
+	justify-content: center;
+	border-radius: 5px;
+}
+.program{
+	background-color: #f2fcf9;
+}
